@@ -26,3 +26,8 @@ For example:
 
 - **Rust**: Ensure Rust is installed. If not, download it from [rust-lang.org](https://www.rust-lang.org/tools/install).
 
+## LICENCE
+
+MIT
+
+
